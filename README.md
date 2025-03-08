@@ -2,7 +2,7 @@
 
 A sleek, modern, and responsive weather application built with **React.js** and **Vite**. WeatherVibe fetches real-time weather data using the **Open-Meteo API** and provides location-based search get using the **Nominatim API**. Get instant updates on temperature, humidity, wind speed, and more with a clean and intuitive UI.
 
-![WeatherVibe Screenshot](https://via.placeholder.com/600x300.png?text=WeatherVibe+Preview)
+![WeatherVibe Screenshot](https://github.com/Tejas-Chaudharigithub25/Weather-App/blob/main/wheather%20App/screen%20of%20wheather%20app.png)
 
 ---
 
