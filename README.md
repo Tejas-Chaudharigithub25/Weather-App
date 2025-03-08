@@ -9,6 +9,7 @@ A sleek, modern, and responsive weather application built with **React.js** and 
 ## ✨ Features
 
 - 🌍 **Location Search**: Search for any city or place.
+- 🌍 **Get Current Location Wheather**: Search Current city or place Wheather Also.
 - ☀️ **Real-Time Weather**: Get up-to-date weather info from Open-Meteo API.
 - ⚡ **Fast & Lightweight**: Built with Vite for blazing-fast development and production builds.
 - 📱 **Responsive Design**: Works seamlessly on desktop, and mobile devices.
@@ -20,8 +21,8 @@ A sleek, modern, and responsive weather application built with **React.js** and 
 
 - **Frontend**: React.js with Vite
 - **APIs**:
-  - Open-Meteo
-  - Nominatim for geocoding
+  - Open-Meteo (Free)
+  - Nominatim for geocoding (Free)
 - **Styling**: CSS (Bootstrap)
 
 ---
